@@ -1,0 +1,2 @@
+{"type":"gitaly-ruby","grpc.start_time":"2022-06-05T00:35:37Z","grpc.time_ms":2.896,"grpc.code":"OK","grpc.method":"Check","grpc.service":"grpc.health.v1.Health","pid":589,"correlation_id":"d315759fc11cd135b7f90659de315418","time":"2022-06-05T00:35:37.520Z"}
+{"type":"gitaly-ruby","grpc.start_time":"2022-06-05T00:35:37Z","grpc.time_ms":2.659,"grpc.code":"OK","grpc.method":"Check","grpc.service":"grpc.health.v1.Health","pid":588,"correlation_id":"b82595f0556bd931643c0398f53916b5","time":"2022-06-05T00:35:37.520Z"}
